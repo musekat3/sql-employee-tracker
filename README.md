@@ -1,4 +1,4 @@
-# sql-employee-tracker
+# SQL-Employee-Tracker
 Employee Tracker that uses SQL 
 
 # Acceptance Criteria
